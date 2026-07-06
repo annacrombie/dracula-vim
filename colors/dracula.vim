@@ -157,7 +157,7 @@ function! s:h(scope, fg, ...) " bg, attr_list, special
 endfunction
 
 function! s:Background()
-  return s:none
+  return s:bg
 endfunction
 
 "}}}2
